@@ -8,5 +8,5 @@ Ejercicio | Descripción
 [Ejercicio3](/tema1/ej3.html) |  Curriculum Vitae
 [Ejercicio4](/tema1/ej4.html) |  Curriculum Vitae
 [Ejercicio5](/tema1/ej5.html) |  Curriculum Vitae
-[Ejercicio8](/tema1/ej6.html) |  Curriculum Vitae
+[Ejercicio8](/tema1/ej8.html) |  Curriculum Vitae
 
