@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2 id="header1" style="font-family: Verdana; color: black; border: 2px solid red;">Cabecera 1</h2>
+    <p id="paragraph1" style="font-family: Courier; background-color: blue; color: yellow; text-align: left; border: 2px dashed green; padding: 10px;">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+
+    <h2 id="header2" style="font-family: Verdana; color: black; border: 2px solid blue;">Cabecera 2</h2>
+    <p id="paragraph2" style="font-family: Courier; background-color: green; color: black; text-align: center; border: 2px dotted orange; padding: 10px;">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+
+    <h2 id="header3" style="font-family: Verdana; color: black; border: 2px solid purple;">Cabecera 3</h2>
+    <p id="paragraph3" style="font-family: Courier; background-color: red; color: white; text-align: right; border: 2px double yellow; padding: 10px;">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+
+    <h2 id="header4" style="font-family: Verdana; color: black; border: 2px solid brown;">Cabecera 4</h2>
+    <p id="paragraph4" style="font-family: Courier; background-color: orange; color: blue; text-align: justify; border: 2px groove gray; padding: 10px;">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    </p>
+</body>
+</html>
