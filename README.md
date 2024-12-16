@@ -43,16 +43,10 @@ Un repositorio con ejercicios prácticos para aprender y practicar el Lenguaje d
 | [Ejercicio 25](/tema1/EJ25/index.html) | ACT.25 - `<iframe>` avanzado. |
 
 ---
-
-## 🎯 **Cómo usar este repositorio**  
-1. Haz clic en los enlaces para ver cada ejercicio.  
-2. Aprende modificando los archivos y revisando cómo cambian los resultados.  
-3. Usa los ejercicios vacíos como práctica personal.  
-
+🚀 Víctor Medel Martín
 ---
 
-¡Explora, aprende y diviértete con HTML!  
-🚀 Si tienes dudas, ¡abre un _issue_ o envía un _pull request_!
+
 
 
 
