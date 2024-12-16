@@ -1,5 +1,5 @@
 # ✨ LLMM - Lenguaje de Marca  
-Un repositorio con ejercicios prácticos para aprender y practicar el Lenguaje de Marca, principalmente HTML. Organizado por temas, cada carpeta contiene actividades con descripciones detalladas y enlaces directos a los ejercicios.  
+Un repositorio con ejercicios prácticos de la asignatura de Lenguaje de Marca del IES La Marisma
 
 
 
