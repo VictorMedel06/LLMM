@@ -1,7 +1,7 @@
 # ✨ LLMM - Lenguaje de Marca  
 Un repositorio con ejercicios prácticos para aprender y practicar el Lenguaje de Marca, principalmente HTML. Organizado por temas, cada carpeta contiene actividades con descripciones detalladas y enlaces directos a los ejercicios.  
 
----
+
 
 ## 📁 **TEMA 0 - Introducción al Lenguaje de Marca**  
 **Explora los conceptos básicos del Lenguaje de Marca con ejercicios sencillos para empezar.**  
@@ -12,7 +12,7 @@ Un repositorio con ejercicios prácticos para aprender y practicar el Lenguaje d
 | [Ejercicio 2](/tema0/ej2.html) | Documento con información de una biblioteca. |
 | [Ejercicio 3](/tema0/ej3.html) | Curriculum Vitae básico en formato HTML. |
 
----
+
 
 ## 📁 **TEMA 1 - HTML**  
 **Aprende los fundamentos de HTML con actividades variadas, desde estructura básica hasta estilos, tablas, imágenes y formularios.**  
@@ -42,9 +42,9 @@ Un repositorio con ejercicios prácticos para aprender y practicar el Lenguaje d
 | [Ejercicio 24](/tema1/EJ24InicioSesionDatos/ej24.html) | ACT.24 - Creación de formularios. |
 | [Ejercicio 25](/tema1/EJ25/index.html) | ACT.25 - `<iframe>` avanzado. |
 
----
+
 🚀 Víctor Medel Martín
----
+
 
 
 
