@@ -60,7 +60,8 @@ Un repositorio con ejercicios prácticos de la asignatura de Lenguaje de Marca d
 | [Ejercicio 11](/tema2/EJERCICIO11) | ACT.11 - Galería de imagenes |
 | [Ejercicio 11](/tema2/ej12.html) | ACT.12 - Web responsibe|
 
-
+📌 **Enlace a WEB con Bootstrap:**  
+🌐 Visita la **[web](https://victormedel06.github.io/Bootstrap/index.html)** para ver el proyecto en acción.  
 
 
 
