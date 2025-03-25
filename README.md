@@ -48,6 +48,8 @@ Un repositorio con ejercicios prácticos de la asignatura de Lenguaje de Marca d
 🚀 Víctor Medel Martín
 
 ## 📁 **TEMA 2 - CSS**  
+| 📝 **Ejercicio** | 📄 **Descripción** |
+|------------------|--------------------|
 | [Ejercicio 1](/tema2/Ejercicio1.html) | ACT.1 - Propiedades css |
 | [Ejercicio 2](/tema2/EJERCICIO2) | ACT.2 - Página web sencilla con un encabezado h1 y un pequeño párrafo |
 | [Ejercicio 3](/tema2/ej3.html) | ACT.3 - Curriculum Vitae |
