@@ -48,6 +48,7 @@ Un repositorio con ejercicios prácticos de la asignatura de Lenguaje de Marca d
 🚀 Víctor Medel Martín
 
 ## 📁 **TEMA 2 - CSS**  
+| [Ejercicio 1](/tema2/Ejercicio1.html) | ACT.1 - Usando varias técnicas. |
 
 
 
