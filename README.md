@@ -48,7 +48,16 @@ Un repositorio con ejercicios prácticos de la asignatura de Lenguaje de Marca d
 🚀 Víctor Medel Martín
 
 ## 📁 **TEMA 2 - CSS**  
-| [Ejercicio 1](/tema2/Ejercicio1.html) | ACT.1 - Usando varias técnicas. |
+| [Ejercicio 1](/tema2/Ejercicio1.html) | ACT.1 - Propiedades css |
+| [Ejercicio 2](/tema2/EJERCICIO2) | ACT.2 - Página web sencilla con un encabezado h1 y un pequeño párrafo |
+| [Ejercicio 3](/tema2/ej3.html) | ACT.3 - Curriculum Vitae |
+| [Ejercicio 4](/tema2/ej4.html) | ACT.4 - Lista en horizontal |
+| [Ejercicio 5](/tema2/ej5.html) | ACT.5 - Crear una tabla |
+| [Ejercicio 6](/tema2/ej6.html) | ACT.6 - Tabla con propiedades|
+| [Ejercicio 10](/tema2/ej10.html) | ACT.10 - Usando la propiedad flex |
+| [Ejercicio 11](/tema2/EJERCICIO11) | ACT.11 - Galería de imagenes |
+| [Ejercicio 11](/tema2/ej12.html) | ACT.12 - Web responsibe|
+
 
 
 
