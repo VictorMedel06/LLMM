@@ -67,13 +67,13 @@ Un repositorio con ejercicios prácticos de la asignatura de Lenguaje de Marca d
 ## 📁 **TEMA 2 - JavaScript y DOM**  
 | 📝 **Ejercicio** | 📄 **Descripción** |
 |------------------|--------------------|
-| [Ejercicio 1](/TEMA3/EJERCICIO1.html) | ACT.1 - Ejercicio básico |
-| [Ejercicio 2](/TEMA3/Ej2.html) | ACT.2 - Mostrar mensaje|
+| [Ejercicio 1](/TEMA3/EJERCICIO1/ej1.html) | ACT.1 - Ejercicio básico |
+| [Ejercicio 2](/TEMA3/EJERCICIO2/ej2.html) | ACT.2 - Mostrar mensaje|
 | [Ejercicio 3](/TEMA3/Ejercicio3.html) | ACT.3 - Mostrar imágenes|
 | [Ejercicio 4](/TEMA3/Ejercicio4.html) | ACT.4 - Trabajando con variables|
 | [Ejercicio 5](/TEMA3/EJERCICIO5.html) | ACT.5 - Cambiamos imagen estilo y texto|
-| [Ejercicio 6](/TEMA3/EJERCICIO5.html) | ACT.6 - Copia la imagen|
-| [Ejercicio 7](/TEMA3/ej7.html) | ACT.7 - Slider|
+| [Ejercicio 6](/TEMA3/ejercicio6.html) | ACT.6 - Copia la imagen|
+| [Ejercicio 7](/TEMA3/EJERCICIO7/ej7.html) | ACT.7 - Slider|
 | [Ejercicio 8](/TEMA3/ejercicio8.html) | ACT.8 - Calculadora|
 | [Ejercicio 9](/TEMA3/ejercicio9.html) | ACT.9 - Conversor de unidades|
 | [Ejercicio 10](/TEMA3/ejercicio10.html) | ACT.10 - Juego de memoria|
