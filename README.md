@@ -58,7 +58,7 @@ Un repositorio con ejercicios prácticos de la asignatura de Lenguaje de Marca d
 | [Ejercicio 6](/tema2/ej6.html) | ACT.6 - Tabla con propiedades|
 | [Ejercicio 10](/tema2/ej10.html) | ACT.10 - Usando la propiedad flex |
 | [Ejercicio 11](/tema2/EJERCICIO11) | ACT.11 - Galería de imagenes |
-| [Ejercicio 11](/tema2/ej12.html) | ACT.12 - Web responsibe|
+| [Ejercicio 12](/tema2/ej12.html) | ACT.12 - Web responsibe|
 
 📌 **Enlace a WEB con Bootstrap:**  
 🌐 Visita la **[web](https://victormedel06.github.io/Bootstrap/index.html)** para ver el proyecto en acción.  
