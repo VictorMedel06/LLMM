@@ -64,7 +64,7 @@ Un repositorio con ejercicios prácticos de la asignatura de Lenguaje de Marca d
 🌐 Visita la **[web](https://victormedel06.github.io/Bootstrap/index.html)** para ver el proyecto en acción.  
 
 
-## 📁 **TEMA 2 - JavaScript y DOM**  
+## 📁 **TEMA 3 - JavaScript y DOM**  
 | 📝 **Ejercicio** | 📄 **Descripción** |
 |------------------|--------------------|
 | [Ejercicio 1](/TEMA3/EJERCICIO1/ej1.html) | ACT.1 - Ejercicio básico |
