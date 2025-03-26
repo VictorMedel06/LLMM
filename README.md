@@ -50,18 +50,35 @@ Un repositorio con ejercicios prácticos de la asignatura de Lenguaje de Marca d
 ## 📁 **TEMA 2 - CSS**  
 | 📝 **Ejercicio** | 📄 **Descripción** |
 |------------------|--------------------|
-| [Ejercicio 1](/tema2/Ejercicio1.html) | ACT.1 - Propiedades css |
-| [Ejercicio 2](/tema2/EJERCICIO2) | ACT.2 - Página web sencilla con un encabezado h1 y un pequeño párrafo |
-| [Ejercicio 3](/tema2/ej3.html) | ACT.3 - Curriculum Vitae |
-| [Ejercicio 4](/tema2/ej4.html) | ACT.4 - Lista en horizontal |
-| [Ejercicio 5](/tema2/ej5.html) | ACT.5 - Crear una tabla |
-| [Ejercicio 6](/tema2/ej6.html) | ACT.6 - Tabla con propiedades|
-| [Ejercicio 10](/tema2/ej10.html) | ACT.10 - Usando la propiedad flex |
-| [Ejercicio 11](/tema2/EJERCICIO11) | ACT.11 - Galería de imagenes |
-| [Ejercicio 12](/tema2/ej12.html) | ACT.12 - Web responsibe|
+| [Ejercicio 1](/TEMA2/Ejercicio1.html) | ACT.1 - Propiedades css |
+| [Ejercicio 2](/TEMA2/EJERCICIO2) | ACT.2 - Página web sencilla con un encabezado h1 y un pequeño párrafo |
+| [Ejercicio 3](/TEMA2/ej3.html) | ACT.3 - Curriculum Vitae |
+| [Ejercicio 4](/TEMA2/ej4.html) | ACT.4 - Lista en horizontal |
+| [Ejercicio 5](/TEMA2/ej5.html) | ACT.5 - Crear una tabla |
+| [Ejercicio 6](/TEMA2/ej6.html) | ACT.6 - Tabla con propiedades|
+| [Ejercicio 10](/TEMA2/ej10.html) | ACT.10 - Usando la propiedad flex |
+| [Ejercicio 11](/TEMA2/EJERCICIO11) | ACT.11 - Galería de imagenes |
+| [Ejercicio 12](/TEMA2/ej12.html) | ACT.12 - Web responsibe|
 
 📌 **Enlace a WEB con Bootstrap:**  
 🌐 Visita la **[web](https://victormedel06.github.io/Bootstrap/index.html)** para ver el proyecto en acción.  
+
+
+## 📁 **TEMA 2 - JavaScript y DOM**  
+| [Ejercicio 1](/TEMA3/Ejercicio1.html) | ACT.1 - Ejercicio básico |
+| [Ejercicio 2](/TEMA3/Ej2.html) | ACT.2 - Mostrar mensaje|
+| [Ejercicio 3](/TEMA3/Ejercicio3.html) | ACT.3 - Mostrar imágenes|
+| [Ejercicio 4](/TEMA3/Ejercicio4.html) | ACT.4 - Trabajando con variables|
+| [Ejercicio 5](/TEMA3/EJERCICIO5.html) | ACT.5 - Cambiamos imagen estilo y texto|
+| [Ejercicio 6](/TEMA3/EJERCICIO5.html) | ACT.6 - Copia la imagen|
+| [Ejercicio 7](/TEMA3/ej7.html) | ACT.7 - Slider|
+| [Ejercicio 8](/TEMA3/ejercicio8.html) | ACT.8 - Calculadora|
+| [Ejercicio 9](/TEMA3/ejercicio9.html) | ACT.9 - Conversor de unidades|
+| [Ejercicio 10](/TEMA3/ejercicio10.html) | ACT.10 - Juego de memoria|
+| [Ejercicio 11](/TEMA3/ejercicio11.html) | ACT.11 - Galería de imágenes dinámica|
+
+
+
 
 
 
