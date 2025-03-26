@@ -77,7 +77,8 @@ Un repositorio con ejercicios prácticos de la asignatura de Lenguaje de Marca d
 | [Ejercicio 8](/TEMA3/ejercicio8.html) | ACT.8 - Calculadora|
 | [Ejercicio 9](/TEMA3/ejercicio9.html) | ACT.9 - Conversor de unidades|
 | [Ejercicio 10](/TEMA3/ejercicio10.html) | ACT.10 - Juego de memoria|
-| [Ejercicio 11](/TEMA3/ejercicio11.html) | ACT.11 - Galería de imágenes dinámica|
+| [Ejercicio 11](/TEMA3/ejercicio11.html) | ACT.11 - Validación de formulario|
+| [Ejercicio 11](/TEMA3/ejercicio12.html) | ACT.11 - Galería de imágenes dinámica|
 
 
 
