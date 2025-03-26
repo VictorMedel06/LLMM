@@ -67,7 +67,7 @@ Un repositorio con ejercicios prácticos de la asignatura de Lenguaje de Marca d
 ## 📁 **TEMA 2 - JavaScript y DOM**  
 | 📝 **Ejercicio** | 📄 **Descripción** |
 |------------------|--------------------|
-| [Ejercicio 1](/TEMA3/Ejercicio1.html) | ACT.1 - Ejercicio básico |
+| [Ejercicio 1](/TEMA3/EJERCICIO1.html) | ACT.1 - Ejercicio básico |
 | [Ejercicio 2](/TEMA3/Ej2.html) | ACT.2 - Mostrar mensaje|
 | [Ejercicio 3](/TEMA3/Ejercicio3.html) | ACT.3 - Mostrar imágenes|
 | [Ejercicio 4](/TEMA3/Ejercicio4.html) | ACT.4 - Trabajando con variables|
