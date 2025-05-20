@@ -40,7 +40,7 @@ Este repositorio recopila ejercicios, ejemplos y un proyecto práctico orientado
 
 ---
 
-## 📝 Proyecto Destacado: Cuestionario Interactivo
+## 📝 Proyecto Final 3ºTrimestre XML: Formulario Interactivo
 
 Proyecto de cuestionario educativo con **XML**, **DTD**, **JavaScript** y **DOM**.
 
