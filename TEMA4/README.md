@@ -32,11 +32,11 @@ Este repositorio recopila ejercicios, ejemplos y un proyecto práctico orientado
 
 | Ejercicio | Descripción |
 |----------|-------------|
-| [Ejercicio 1](./AJAX-EJERCICIOS/ejercicio1.html) | Lectura de CDs con AJAX. |
-| [Ejercicio 2](./AJAX-EJERCICIOS/ejercicio2.html) | Consulta del clima con AEMET para localidades de Huelva. |
-| [Ejercicio 3](./AJAX-EJERCICIOS/ejercicio3.html) | Manipulación de arrays JSON. |
-| [Ejercicio 4](./AJAX-EJERCICIOS/ejercicio4.html) | Procesamiento de objetos JSON complejos sobre mascotas. |
-| [Ejercicio 5](./AJAX-EJERCICIOS/ejercicio5.html) | Consumo de API de la NASA para mostrar imagen astronómica del día. |
+| [Ejercicio 1](https://github.com/VictorMedel06/LLMM/blob/main/TEMA4/AJAX-EXERCISES/ejercicio1.html) | Lectura de CDs con AJAX. |
+| [Ejercicio 2](https://github.com/VictorMedel06/LLMM/blob/main/TEMA4/AJAX-EXERCISES/ejercicio2.html) | Consulta del clima con AEMET para localidades de Huelva. |
+| [Ejercicio 3](https://github.com/VictorMedel06/LLMM/blob/main/TEMA4/AJAX-EXERCISES/ejercicio3.html) | Manipulación de arrays JSON. |
+| [Ejercicio 4](https://github.com/VictorMedel06/LLMM/blob/main/TEMA4/AJAX-EXERCISES/ejercicio4.html) | Procesamiento de objetos JSON complejos sobre mascotas. |
+| [Ejercicio 5](https://github.com/VictorMedel06/LLMM/blob/main/TEMA4/AJAX-EXERCISES/ejercicio5.html) | Consumo de API de la NASA para mostrar imagen astronómica del día. |
 
 ---
 
