@@ -9,12 +9,12 @@ Este repositorio recopila ejercicios, ejemplos y un proyecto práctico orientado
 | Ejercicio | Descripción |
 |----------|-------------|
 | [Ejercicio 1](https://github.com/VictorMedel06/LLMM/blob/main/TEMA4/XML-Exercises/Ex1a.xml) | Documento XML básico con información personal. |
-| [Ejercicio 2](./XML-EJERCICIOS/Ex2.xml) | DTD interno y externo para validar un catálogo de libros. |
-| [Ejercicio 3](./XML-EJERCICIOS/Ex3-corrected.xml) | XML Schema para estructurar una biblioteca digital. |
-| [Ejercicio 4](./XML-EJERCICIOS/ex4.xml) | Transformación XML a HTML usando XSLT para un menú de restaurante. |
-| [Ejercicio 5](./XML-EJERCICIOS/Ex5a.xml) | Validación de XML con esquemas y DTDs. |
-| [Ejercicio 6](./XML-EJERCICIOS/Ex6.xml) | Uso de namespaces y manipulación de XML con JavaScript. |
-| [Ejercicio 7](./XML-EJERCICIOS/ex7.txt) | Aplicación web con XML, XSLT y JavaScript. |
+| [Ejercicio 2](https://github.com/VictorMedel06/LLMM/blob/main/TEMA4/XML-Exercises/Ex2.xml) | DTD interno y externo para validar un catálogo de libros. |
+| [Ejercicio 3](https://github.com/VictorMedel06/LLMM/blob/main/TEMA4/XML-Exercises/Ex3-corrected.xml) | XML Schema para estructurar una biblioteca digital. |
+| [Ejercicio 4](https://github.com/VictorMedel06/LLMM/blob/main/TEMA4/XML-Exercises/ex4.xml) | Transformación XML a HTML usando XSLT para un menú de restaurante. |
+| [Ejercicio 5]([./XML-EJERCICIOS/Ex5a.xml](https://github.com/VictorMedel06/LLMM/blob/main/TEMA4/XML-Exercises/Ex5a.xml)) | Validación de XML con esquemas y DTDs. |
+| [Ejercicio 6]([./XML-EJERCICIOS/Ex6.xml](https://github.com/VictorMedel06/LLMM/blob/main/TEMA4/XML-Exercises/Ex6.xml)) | Uso de namespaces y manipulación de XML con JavaScript. |
+| [Ejercicio 7]([./XML-EJERCICIOS/ex7.txt](https://github.com/VictorMedel06/LLMM/blob/main/TEMA4/XML-Exercises/ex7.txt)) | Aplicación web con XML, XSLT y JavaScript. |
 
 ---
 
