@@ -59,7 +59,7 @@ Proyecto de cuestionario educativo con **XML**, **DTD**, **JavaScript** y **DOM*
 - `script.js`
 
 🔗 [Ver proyecto en GitHub Pages](https://pipkonx.github.io/LenguajeDeMarcas/Tema4/Proyecto/index.html)  
-📂 [Ver archivos del proyecto](./Proyecto)
+
 
 ---
 
