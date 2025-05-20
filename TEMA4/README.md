@@ -8,7 +8,7 @@ Este repositorio recopila ejercicios, ejemplos y un proyecto práctico orientado
 
 | Ejercicio | Descripción |
 |----------|-------------|
-| [Ejercicio 1](./XML-EJERCICIOS/Ex1a.xml) | Documento XML básico con información personal. |
+| [Ejercicio 1](TEMA4/XML-Exercises/Ex1a.xml) | Documento XML básico con información personal. |
 | [Ejercicio 2](./XML-EJERCICIOS/Ex2.xml) | DTD interno y externo para validar un catálogo de libros. |
 | [Ejercicio 3](./XML-EJERCICIOS/Ex3-corrected.xml) | XML Schema para estructurar una biblioteca digital. |
 | [Ejercicio 4](./XML-EJERCICIOS/ex4.xml) | Transformación XML a HTML usando XSLT para un menú de restaurante. |
