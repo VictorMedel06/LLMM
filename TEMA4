@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>XML - Lenguaje de Marcado Extensible</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1rem 0;
+      background-color: #fff;
+    }
+    th, td {
+      padding: 0.75rem;
+      border: 1px solid #ccc;
+      text-align: left;
+    }
+    th {
+      background-color: #34495e;
+      color: white;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      margin: 0.5rem 0 1rem 1.5rem;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    code {
+      background-color: #eee;
+      padding: 2px 5px;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🌐 XML - Lenguaje de Marcado Extensible</h1>
+  <p>Este repositorio recopila ejercicios, ejemplos y un proyecto práctico orientado al aprendizaje de XML y tecnologías relacionadas como DTD, XSLT, XML Schema, DOM y AJAX.</p>
+
+  <section>
+    <h2>📘 Actividades XML</h2>
+    <table>
+      <tr><th>Ejercicio</th><th>Descripción</th></tr>
+      <tr><td><a href="/Tema4/XML-Exercises/Ex1a.xml">Ejercicio 1</a></td><td>Documento XML básico con información personal.</td></tr>
+      <tr><td><a href="/Tema4/XML-Exercises/Ex2.xml">Ejercicio 2</a></td><td>DTD interno y externo para validar un catálogo de libros.</td></tr>
+      <tr><td><a href="/Tema4/XML-Exercises/Ex3-corrected.xml">Ejercicio 3</a></td><td>XML Schema para estructurar una biblioteca digital.</td></tr>
+      <tr><td><a href="/Tema4/XML-Exercises/ex4.xml">Ejercicio 4</a></td><td>Transformación XML a HTML usando XSLT para un menú de restaurante.</td></tr>
+      <tr><td><a href="/Tema4/XML-Exercises/Ex5a.xml">Ejercicio 5</a></td><td>Validación de XML con esquemas y DTDs.</td></tr>
+      <tr><td><a href="/Tema4/XML-Exercises/Ex6.xml">Ejercicio 6</a></td><td>Uso de namespaces y manipulación de XML con JavaScript.</td></tr>
+      <tr><td><a href="/Tema4/XML-Exercises/ex7.txt">Ejercicio 7</a></td><td>Aplicación web con XML, XSLT y JavaScript.</td></tr>
+    </table>
+  </section>
+
+  <section>
+    <h2>📂 Ejercicios con XML-DOM</h2>
+    <table>
+      <tr><th>Ejercicio</th><th>Descripción</th></tr>
+      <tr><td><a href="/Tema4/XML-DOM/ejercicio1.html">Ejercicio 1</a></td><td>Consultas al DOM de <code>books.xml</code>.</td></tr>
+      <tr><td><a href="/Tema4/XML-DOM/ejercicio2.html">Ejercicio 2</a></td><td>Manipulación de <code>cd_catalog.xml</code> con <code>XMLHttpRequest</code>.</td></tr>
+      <tr><td><a href="/Tema4/XML-DOM/ejercicio3.html">Ejercicio 3</a></td><td>Tabla HTML dinámica desde XML usando DOM.</td></tr>
+    </table>
+  </section>
+
+  <section>
+    <h2>⚡ Ejercicios AJAX</h2>
+    <table>
+      <tr><th>Ejercicio</th><th>Descripción</th></tr>
+      <tr><td><a href="/Tema4/AJAX-EXERCISES/ejercicio1.html">Ejercicio 1</a></td><td>Lectura de CDs con AJAX.</td></tr>
+      <tr><td><a href="/Tema4/AJAX-EXERCISES/ejercicio2.html">Ejercicio 2</a></td><td>Información meteorológica de Huelva (AEMET).</td></tr>
+      <tr><td><a href="/Tema4/AJAX-EXERCISES/ejercicio3.html">Ejercicio 3</a></td><td>Manipulación de arrays JSON.</td></tr>
+      <tr><td><a href="/Tema4/AJAX-EXERCISES/ejercicio4.html">Ejercicio 4</a></td><td>Procesamiento de objetos JSON complejos.</td></tr>
+      <tr><td><a href="/Tema4/AJAX-EXERCISES/ejercicio5.html">Ejercicio 5</a></td><td>Imagen astronómica del día usando API de la NASA.</td></tr>
+    </table>
+  </section>
+
+  <section>
+    <h2>📝 Proyecto Destacado: Cuestionario Interactivo</h2>
+    <p>Un cuestionario educativo interactivo utilizando XML, DTD, JavaScript y DOM.</p>
+    <h3>🧩 Características:</h3>
+    <ul>
+      <li>Preguntas en español e inglés</li>
+      <li>Validación con DTD</li>
+      <li>Interfaz cronometrada</li>
+      <li>Cálculo automático de puntuación</li>
+    </ul>
+    <h3>📁 Archivos del proyecto:</h3>
+    <ul>
+      <li><code>preguntas_es.xml</code> y <code>preguntas_en.xml</code></li>
+      <li><code>index.html</code>, <code>styles.css</code>, <code>script.js</code></li>
+    </ul>
+    <p>🔗 <a href="https://pipkonx.github.io/LenguajeDeMarcas/Tema4/Proyecto/index.html" target="_blank">Ver proyecto en GitHub Pages</a><br />
+    📂 <a href="/Tema4/Proyecto">Ver archivos del proyecto</a></p>
+  </section>
+
+  <section>
+    <h2>📚 Contenido del Curso</h2>
+    <ul>
+      <li><strong>Fundamentos XML</strong>
+        <ul>
+          <li>Sintaxis básica</li>
+          <li>Elementos y atributos</li>
+          <li>Documentos bien formados</li>
+          <li>Validación</li>
+        </ul>
+      </li>
+      <li><strong>Tecnologías Relacionadas</strong>
+        <ul>
+          <li>DTD</li>
+          <li>XML Schema</li>
+          <li>XSLT</li>
+          <li>XPath</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>💡 Ejemplos por Categoría</h2>
+    <ul>
+      <li><code>/ejemplos-basicos</code>: Introducción a XML</li>
+      <li><code>/dtd</code>: Estructuras con DTD</li>
+      <li><code>/schema</code>: Uso de XML Schema</li>
+      <li><code>/transformaciones</code>: Transformaciones con XSLT</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>🔗 Recursos Recomendados</h2>
+    <ul>
+      <li><a href="https://www.w3.org/XML/" target="_blank">W3C XML Specification</a></li>
+      <li><a href="https://www.w3schools.com/xml/" target="_blank">W3Schools XML Tutorial</a></li>
+      <li><a href="https://www.w3schools.com/xml/schema_intro.asp" target="_blank">XML Schema Intro</a></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>🛠️ Cómo Empezar</h2>
+    <ol>
+      <li>Clona este repositorio:
+        <pre><code>git clone https://github.com/tu-usuario/tu-repo.git</code></pre>
+      </li>
+      <li>Abre los archivos en tu editor favorito</li>
+      <li>Explora los ejemplos y completa los ejercicios</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>📄 Licencia</h2>
+    <p>Este repositorio está licenciado bajo la Licencia MIT. Consulta el archivo <code>LICENSE</code> para más detalles.</p>
+  </section>
+
+</body>
+</html>
