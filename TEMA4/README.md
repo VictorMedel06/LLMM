@@ -8,13 +8,13 @@ Este repositorio recopila ejercicios, ejemplos y un proyecto práctico orientado
 
 | Ejercicio | Descripción |
 |----------|-------------|
-| [Ejercicio 1](/Tema4/XML-Exercises/Ex1a.xml) | Documento XML básico con información personal. |
-| [Ejercicio 2](/Tema4/XML-Exercises/Ex2.xml) | DTD interno y externo para validar un catálogo de libros. |
-| [Ejercicio 3](/Tema4/XML-Exercises/Ex3-corrected.xml) | XML Schema para estructurar una biblioteca digital. |
-| [Ejercicio 4](/Tema4/XML-Exercises/ex4.xml) | Transformación XML a HTML usando XSLT para un menú de restaurante. |
-| [Ejercicio 5](/Tema4/XML-Exercises/Ex5a.xml) | Validación de XML con esquemas y DTDs. |
-| [Ejercicio 6](/Tema4/XML-Exercises/Ex6.xml) | Uso de namespaces y manipulación de XML con JavaScript. |
-| [Ejercicio 7](/Tema4/XML-Exercises/ex7.txt) | Aplicación web con XML, XSLT y JavaScript. |
+| [Ejercicio 1](./XML-EJERCICIOS/Ex1a.xml) | Documento XML básico con información personal. |
+| [Ejercicio 2](./XML-EJERCICIOS/Ex2.xml) | DTD interno y externo para validar un catálogo de libros. |
+| [Ejercicio 3](./XML-EJERCICIOS/Ex3-corrected.xml) | XML Schema para estructurar una biblioteca digital. |
+| [Ejercicio 4](./XML-EJERCICIOS/ex4.xml) | Transformación XML a HTML usando XSLT para un menú de restaurante. |
+| [Ejercicio 5](./XML-EJERCICIOS/Ex5a.xml) | Validación de XML con esquemas y DTDs. |
+| [Ejercicio 6](./XML-EJERCICIOS/Ex6.xml) | Uso de namespaces y manipulación de XML con JavaScript. |
+| [Ejercicio 7](./XML-EJERCICIOS/ex7.txt) | Aplicación web con XML, XSLT y JavaScript. |
 
 ---
 
@@ -22,9 +22,9 @@ Este repositorio recopila ejercicios, ejemplos y un proyecto práctico orientado
 
 | Ejercicio | Descripción |
 |----------|-------------|
-| [Ejercicio 1](/Tema4/XML-DOM/ejercicio1.html) | Consultas al DOM de `books.xml`. |
-| [Ejercicio 2](/Tema4/XML-DOM/ejercicio2.html) | Manipulación de `cd_catalog.xml` con `XMLHttpRequest`. |
-| [Ejercicio 3](/Tema4/XML-DOM/ejercicio3.html) | Creación de tabla dinámica desde XML usando DOM. |
+| [Ejercicio 1](./XML-DOM/ejercicio1.html) | Consultas al DOM de `books.xml`. |
+| [Ejercicio 2](./XML-DOM/ejercicio2.html) | Manipulación de `cd_catalog.xml` con `XMLHttpRequest`. |
+| [Ejercicio 3](./XML-DOM/ejercicio3.html) | Creación de tabla dinámica desde XML usando DOM. |
 
 ---
 
@@ -32,11 +32,11 @@ Este repositorio recopila ejercicios, ejemplos y un proyecto práctico orientado
 
 | Ejercicio | Descripción |
 |----------|-------------|
-| [Ejercicio 1](/Tema4/AJAX-EXERCISES/ejercicio1.html) | Lectura de CDs con AJAX. |
-| [Ejercicio 2](/Tema4/AJAX-EXERCISES/ejercicio2.html) | Consulta del clima con AEMET para localidades de Huelva. |
-| [Ejercicio 3](/Tema4/AJAX-EXERCISES/ejercicio3.html) | Manipulación de arrays JSON. |
-| [Ejercicio 4](/Tema4/AJAX-EXERCISES/ejercicio4.html) | Procesamiento de objetos JSON complejos sobre mascotas. |
-| [Ejercicio 5](/Tema4/AJAX-EXERCISES/ejercicio5.html) | Consumo de API de la NASA para mostrar imagen astronómica del día. |
+| [Ejercicio 1](./AJAX-EJERCICIOS/ejercicio1.html) | Lectura de CDs con AJAX. |
+| [Ejercicio 2](./AJAX-EJERCICIOS/ejercicio2.html) | Consulta del clima con AEMET para localidades de Huelva. |
+| [Ejercicio 3](./AJAX-EJERCICIOS/ejercicio3.html) | Manipulación de arrays JSON. |
+| [Ejercicio 4](./AJAX-EJERCICIOS/ejercicio4.html) | Procesamiento de objetos JSON complejos sobre mascotas. |
+| [Ejercicio 5](./AJAX-EJERCICIOS/ejercicio5.html) | Consumo de API de la NASA para mostrar imagen astronómica del día. |
 
 ---
 
@@ -59,7 +59,7 @@ Proyecto de cuestionario educativo con **XML**, **DTD**, **JavaScript** y **DOM*
 - `script.js`
 
 🔗 [Ver proyecto en GitHub Pages](https://pipkonx.github.io/LenguajeDeMarcas/Tema4/Proyecto/index.html)  
-📂 [Ver archivos del proyecto](/Tema4/Proyecto)
+📂 [Ver archivos del proyecto](./Proyecto)
 
 ---
 
@@ -83,10 +83,10 @@ Proyecto de cuestionario educativo con **XML**, **DTD**, **JavaScript** y **DOM*
 
 ## 💡 Ejemplos por Categoría
 
-- `/ejemplos-basicos`: Introducción a XML  
-- `/dtd`: Ejemplos de definición de tipos de documentos  
-- `/schema`: Validación con XML Schema  
-- `/transformaciones`: Transformaciones con XSLT
+- `./ejemplos-basicos`: Introducción a XML  
+- `./dtd`: Ejemplos de definición de tipos de documentos  
+- `./schema`: Validación con XML Schema  
+- `./transformaciones`: Transformaciones con XSLT
 
 ---
 
