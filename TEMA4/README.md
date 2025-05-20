@@ -58,7 +58,7 @@ Proyecto de cuestionario educativo con **XML**, **DTD**, **JavaScript** y **DOM*
 - `styles.css`
 - `script.js`
 
-🔗 [Ver proyecto en GitHub Pages](https://pipkonx.github.io/LenguajeDeMarcas/Tema4/Proyecto/index.html)  
+🔗 [Ver WEB Proyecto XML](https://victormedel06.github.io/ProyectoXML/?)  
 
 
 ---
