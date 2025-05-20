@@ -22,9 +22,9 @@ Este repositorio recopila ejercicios, ejemplos y un proyecto práctico orientado
 
 | Ejercicio | Descripción |
 |----------|-------------|
-| [Ejercicio 1](./XML-DOM/ejercicio1.html) | Consultas al DOM de `books.xml`. |
-| [Ejercicio 2](./XML-DOM/ejercicio2.html) | Manipulación de `cd_catalog.xml` con `XMLHttpRequest`. |
-| [Ejercicio 3](./XML-DOM/ejercicio3.html) | Creación de tabla dinámica desde XML usando DOM. |
+| [Ejercicio 1](https://github.com/VictorMedel06/LLMM/blob/main/TEMA4/XML-DOM/ejercicio1.html) | Consultas al DOM de `books.xml`. |
+| [Ejercicio 2](https://github.com/VictorMedel06/LLMM/blob/main/TEMA4/XML-DOM/ejercicio2.html) | Manipulación de `cd_catalog.xml` con `XMLHttpRequest`. |
+| [Ejercicio 3](https://github.com/VictorMedel06/LLMM/blob/main/TEMA4/XML-DOM/ejercicio3.html) | Creación de tabla dinámica desde XML usando DOM. |
 
 ---
 
