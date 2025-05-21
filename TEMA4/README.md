@@ -90,14 +90,6 @@ Proyecto de cuestionario educativo con **XML**, **DTD**, **JavaScript** y **DOM*
 
 ---
 
-## 🔗 Recursos Recomendados
-
-- [📄 W3C XML Specification](https://www.w3.org/XML/)
-- [📘 W3Schools XML Tutorial](https://www.w3schools.com/xml/)
-- [📐 XML Schema Intro](https://www.w3schools.com/xml/schema_intro.asp)
-
----
-
 ## 🛠️ Cómo Empezar
 
 1. Clona este repositorio:
