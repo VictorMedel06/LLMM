@@ -82,7 +82,7 @@ Un repositorio con ejercicios prácticos de la asignatura de Lenguaje de Marca d
 
 ---
 
-## 📁 **TEMA 3** - Ejercicios de Manipulación del DOM
+## 📁 **TEMA 3** - Ejercicios de Manipulación del DOM & Ejercicios Avanzados de JavaScript
 
 Esta sección incluye ejercicios básicos para aprender a modificar dinámicamente el contenido, estructura y estilo de las páginas web.
 
@@ -98,20 +98,6 @@ Esta sección incluye ejercicios básicos para aprender a modificar dinámicamen
 | [Ejercicio 4D](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/Ejercicio4D.html) | Documento de HTML con propiedades     | Acceso y modificación de propiedades de elementos    |
 
 ---
-
-## 🚀 **TEMA 3** - Ejercicios Avanzados de JavaScript
-
-Ejercicios más complejos que combinan DOM y conceptos avanzados de JavaScript para crear aplicaciones web interactivas.
-
-| Ejercicio | Descripción                     | Conceptos Trabajados                                     |
-|-----------|---------------------------------|----------------------------------------------------------|
-| [Ejercicio 1](#) | Editor HTML y CSS               | Creación de un editor de código en tiempo real           |
-| [Ejercicio 2](#) | Cambiamos el estilo             | Manipulación avanzada de CSS                             |
-| [Ejercicio 3](#) | Cambiamos el estilo de sheet    | Modificación de hojas de estilo                          |
-| [Ejercicio 4](#) | HTML y DOM                      | Integración avanzada de HTML y manipulación del DOM      |
-
-
-
 
 
 
