@@ -80,6 +80,31 @@ Un repositorio con ejercicios prácticos de la asignatura de Lenguaje de Marca d
 | [Ejercicio 11](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/ejercicio11.html) | ACT.11 - Validación de formulario|
 | [Ejercicio 12](/TEMA3/ejercicio12.html) | ACT.12 - Galería de imágenes dinámica|
 
+---
+
+## 📁 Ejercicios de Manipulación del DOM
+
+Esta sección incluye ejercicios básicos para aprender a modificar dinámicamente el contenido, estructura y estilo de las páginas web.
+
+| Ejercicio | Descripción                          | Conceptos Trabajados                                 |
+|-----------|--------------------------------------|------------------------------------------------------|
+| [Ejercicio 1](#) | Añadir elementos                      | Creación e inserción de nodos                        |
+| [Ejercicio 2](#) | Creamos elementos dinámicos           | Generación dinámica de contenido                     |
+| [Ejercicio 3](#) | Removemos elementos                   | Eliminación de nodos del DOM                         |
+| [Ejercicio 4](#) | Documento de HTML con propiedades     | Acceso y modificación de propiedades de elementos    |
+
+---
+
+## 🚀 Ejercicios Avanzados de JavaScript
+
+Ejercicios más complejos que combinan DOM y conceptos avanzados de JavaScript para crear aplicaciones web interactivas.
+
+| Ejercicio | Descripción                     | Conceptos Trabajados                                     |
+|-----------|---------------------------------|----------------------------------------------------------|
+| [Ejercicio 1](#) | Editor HTML y CSS               | Creación de un editor de código en tiempo real           |
+| [Ejercicio 2](#) | Cambiamos el estilo             | Manipulación avanzada de CSS                             |
+| [Ejercicio 3](#) | Cambiamos el estilo de sheet    | Modificación de hojas de estilo                          |
+| [Ejercicio 4](#) | HTML y DOM                      | Integración avanzada de HTML y manipulación del DOM      |
 
 
 
