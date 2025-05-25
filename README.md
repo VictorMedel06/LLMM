@@ -82,7 +82,7 @@ Un repositorio con ejercicios prácticos de la asignatura de Lenguaje de Marca d
 
 ---
 
-## 📁 Ejercicios de Manipulación del DOM
+## 📁 **TEMA 3** - Ejercicios de Manipulación del DOM
 
 Esta sección incluye ejercicios básicos para aprender a modificar dinámicamente el contenido, estructura y estilo de las páginas web.
 
@@ -95,7 +95,7 @@ Esta sección incluye ejercicios básicos para aprender a modificar dinámicamen
 
 ---
 
-## 🚀 Ejercicios Avanzados de JavaScript
+## 🚀 **TEMA 3** - Ejercicios Avanzados de JavaScript
 
 Ejercicios más complejos que combinan DOM y conceptos avanzados de JavaScript para crear aplicaciones web interactivas.
 
