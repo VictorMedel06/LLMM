@@ -88,14 +88,14 @@ Esta sección incluye ejercicios básicos para aprender a modificar dinámicamen
 
 | Ejercicio | Descripción                          | Conceptos Trabajados                                 |
 |-----------|--------------------------------------|------------------------------------------------------|
-| [Ejercicio 1A](https://github.com/VictorMedel06/LLMV/blob/main/TEMA3/Ejercicio1A.html) | Añadir elementos a una lista existente | Creación e inserción de nodos |
-| [Ejercicio 1D](https://github.com/VictorMedel06/LLMV/blob/main/TEMA3/Ejercicio1D.html) | Crear tarjetas dinámicas con texto e imagen | Generación dinámica de contenido |
-| [Ejercicio 2A](https://github.com/VictorMedel06/LLMV/blob/main/TEMA3/Ejercicio2A.html) | Eliminar elementos seleccionados del DOM | Eliminación de nodos del DOM |
-| [Ejercicio 2D](https://github.com/VictorMedel06/LLMV/blob/main/TEMA3/Ejercicio2D.html) | Usar botones para borrar elementos | Eliminación de nodos del DOM |
-| [Ejercicio 3A](https://github.com/VictorMedel06/LLMV/blob/main/TEMA3/Ejercicio3A.html) | Mostrar propiedades de un objeto HTML | Acceso y modificación de propiedades de elementos |
-| [Ejercicio 3D](https://github.com/VictorMedel06/LLMV/blob/main/TEMA3/Ejercicio3D.html) | Modificar contenido desde inputs/formularios | Acceso y modificación de propiedades de elementos |
-| [Ejercicio 4A](https://github.com/VictorMedel06/LLMV/blob/main/TEMA3/Ejercicio4A.html) | Cambiar contenido y estilos con eventos | Acceso y modificación de propiedades de elementos |
-| [Ejercicio 4D](https://github.com/VictorMedel06/LLMV/blob/main/TEMA3/Ejercicio4D.html) | Interacción avanzada: modificar atributos dinámicamente | Acceso y modificación de propiedades de elementos |
+| [Ejercicio 1A](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/Ejercicio1A.html) | Añadir elementos a una lista existente | Creación e inserción de nodos |
+| [Ejercicio 1D](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/Ejercicio1D.html) | Crear tarjetas dinámicas con texto e imagen | Generación dinámica de contenido |
+| [Ejercicio 2A](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/Ejercicio2A.html) | Eliminar elementos seleccionados del DOM | Eliminación de nodos del DOM |
+| [Ejercicio 2D](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/Ejercicio2D.html) | Usar botones para borrar elementos | Eliminación de nodos del DOM |
+| [Ejercicio 3A](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/Ejercicio3A.html) | Mostrar propiedades de un objeto HTML | Acceso y modificación de propiedades de elementos |
+| [Ejercicio 3D](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/Ejercicio3D.html) | Modificar contenido desde inputs/formularios | Acceso y modificación de propiedades de elementos |
+| [Ejercicio 4A](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/Ejercicio4A.html) | Cambiar contenido y estilos con eventos | Acceso y modificación de propiedades de elementos |
+| [Ejercicio 4D](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/Ejercicio4D.html) | Interacción avanzada: modificar atributos dinámicamente | Acceso y modificación de propiedades de elementos |
 
 ---
 
