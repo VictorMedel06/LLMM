@@ -92,6 +92,10 @@ Esta sección incluye ejercicios básicos para aprender a modificar dinámicamen
 | [Ejercicio 1D](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/Ejercicio1D.html) | Creamos elementos dinámicos           | Generación dinámica de contenido                     |
 | [Ejercicio 2A](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/Ejercicio2A.html) | Removemos elementos                   | Eliminación de nodos del DOM                         |
 | [Ejercicio 2D](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/Ejercicio2D.html) | Documento de HTML con propiedades     | Acceso y modificación de propiedades de elementos    |
+| [Ejercicio 3A](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/Ejercicio3A.html) | Documento de HTML con propiedades     | Acceso y modificación de propiedades de elementos    |
+| [Ejercicio 3D](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/Ejercicio3D.html) | Documento de HTML con propiedades     | Acceso y modificación de propiedades de elementos    |
+| [Ejercicio 4A](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/Ejercicio4A.html) | Documento de HTML con propiedades     | Acceso y modificación de propiedades de elementos    |
+| [Ejercicio 4D](https://github.com/VictorMedel06/LLMM/blob/main/TEMA3/Ejercicio4D.html) | Documento de HTML con propiedades     | Acceso y modificación de propiedades de elementos    |
 
 ---
 
